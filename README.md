@@ -1,7 +1,7 @@
 # serverless-AI-app
-# Athena AI
+# NOVA AI
 
-Athena AI is a serverless AI-powered web application built using AWS cloud services and modern web technologies. The platform enables users to interact with an AI assistant through a secure and scalable cloud-native architecture.
+NOVA AI is a serverless AI-powered web application built using AWS cloud services and modern web technologies. The platform enables users to interact with an AI assistant through a secure and scalable cloud-native architecture.
 
 ## Features
 
@@ -58,4 +58,4 @@ Athena AI is a serverless AI-powered web application built using AWS cloud servi
 
 ## Author
 
-Dindukurthi Bhavya Sri
+Bhoomith Kumar Addenki
